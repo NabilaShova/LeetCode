@@ -1,0 +1,7 @@
+$ cat .gitignore
+# ignore all .pdf/exe/txt files
+*.pdf
+*.exe
+*.txt
+# ignore all files in any directory named build
+.vscode/
